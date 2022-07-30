@@ -48,7 +48,7 @@ export default () => {
 
   //console.log(app);
 
-  makeWall(0, 0, 5, 10, 1, 1, 1, 0);
+  makeWall(0, 0, 6, 40, 1, 1, 1, 0);
 
   useFrame(({timestamp}) => {
 
